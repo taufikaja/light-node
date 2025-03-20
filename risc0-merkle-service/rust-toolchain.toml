@@ -1,4 +1,2 @@
-[toolchain]
-channel = "stable"
-components = ["rustfmt", "rust-src"]
-profile = "minimal"
+git clone https://github.com/Layer-Edge/light-node.git
+cd light-node
